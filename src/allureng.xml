@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestNG">
+    <listeners>
+        <listener class-name="allureReport.AllureReport" />
+    </listeners>
+    <test name="Main">
+        <classes>
+            <class name="basetest.TestsNG" />
+        </classes>
+    </test>
+</suite>
+
+<!--        Please be sure to use the mvn test allure:report command.!!!!!!!!!!!!-->
+<!--        Because the mvn clean test allure:report command cleans my classes and packages for some reason.-->

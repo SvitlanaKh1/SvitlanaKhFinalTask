@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FinalTaskAndroid(failed)">
+    <classes>
+      <class name="basetest.basetest.basetest.TestsNG">
+        <methods>
+          <include name="FailTest"/>
+          <include name="FirstAction"/>
+        </methods>
+      </class> <!-- basetast.TestsNG -->
+    </classes>
+  </test> <!-- FinalTaskAndroid(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

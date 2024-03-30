@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T17:59:28 EET" name="MyTestNG" finished-at="2024-03-29T18:01:50 EET" duration-ms="141562">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T17:59:28 EET" name="Main" finished-at="2024-03-29T18:01:50 EET" duration-ms="141562">
+      <class name="basetest.TestsNG">
+        <test-method is-config="true" signature="getAndroidDriver()[pri:0, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T17:59:19 EET" name="getAndroidDriver" finished-at="2024-03-29T17:59:28 EET" duration-ms="8684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAndroidDriver -->
+        <test-method signature="clickDrag()[pri:0, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T17:59:28 EET" name="clickDrag" finished-at="2024-03-29T17:59:31 EET" duration-ms="2292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickDrag -->
+        <test-method signature="testMoveElement1()[pri:1, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T17:59:31 EET" name="testMoveElement1" finished-at="2024-03-29T17:59:45 EET" duration-ms="14569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement1 -->
+        <test-method signature="testMoveElement2()[pri:2, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T17:59:45 EET" name="testMoveElement2" finished-at="2024-03-29T18:00:00 EET" duration-ms="14420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement2 -->
+        <test-method signature="testMoveElement3()[pri:3, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:00:00 EET" name="testMoveElement3" finished-at="2024-03-29T18:00:14 EET" duration-ms="14156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement3 -->
+        <test-method signature="testMoveElement4()[pri:4, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:00:14 EET" name="testMoveElement4" finished-at="2024-03-29T18:00:29 EET" duration-ms="15226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement4 -->
+        <test-method signature="testMoveElement5()[pri:5, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:00:29 EET" name="testMoveElement5" finished-at="2024-03-29T18:00:44 EET" duration-ms="14575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement5 -->
+        <test-method signature="testMoveElement6()[pri:6, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:00:44 EET" name="testMoveElement6" finished-at="2024-03-29T18:00:58 EET" duration-ms="14567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement6 -->
+        <test-method signature="testMoveElement7()[pri:7, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:00:58 EET" name="testMoveElement7" finished-at="2024-03-29T18:01:13 EET" duration-ms="14726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement7 -->
+        <test-method signature="testMoveElement8()[pri:8, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:01:13 EET" name="testMoveElement8" finished-at="2024-03-29T18:01:27 EET" duration-ms="14319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement8 -->
+        <test-method signature="testMoveElement9()[pri:9, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:01:27 EET" name="testMoveElement9" finished-at="2024-03-29T18:01:41 EET" duration-ms="14131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveElement9 -->
+        <test-method signature="finishRobot()[pri:10, instance:basetest.TestsNG@6cc558c6]" started-at="2024-03-29T18:01:41 EET" name="finishRobot" finished-at="2024-03-29T18:01:50 EET" duration-ms="8371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishRobot -->
+      </class> <!-- basetest.TestsNG -->
+    </test> <!-- Main -->
+  </suite> <!-- MyTestNG -->
+</testng-results>
