@@ -1,0 +1,1 @@
+{"uuid":"e9613081-d064-4041-923f-3dde3980990b","name":"MyTestNG","children":["b79c8084-6903-479b-9291-a2b2a5e62439"],"befores":[{"name":"getAndroidDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711886959781,"stop":1711886971574}],"afters":[],"start":1711886959730,"stop":1711887175365}
